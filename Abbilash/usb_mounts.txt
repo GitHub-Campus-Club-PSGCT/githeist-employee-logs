@@ -1,0 +1,2 @@
+11:55 PM - USB /mnt/finance_backup inserted
+12:10 AM - USB /mnt/finance_backup removed

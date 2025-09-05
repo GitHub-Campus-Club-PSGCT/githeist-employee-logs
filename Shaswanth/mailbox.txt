@@ -1,0 +1,2 @@
+[Sent 11:00 PM] To: IT-Admin → "Tonight’s firewall patch scheduled."
+[Draft unsent] "Logs look weird, someone accessed Treasury wing during my patch?"
