@@ -1,3 +1,2 @@
 12:20 AM - USB inserted: /mnt/logs_backup
-Owner: Vishal (left-hand fingerprints only)
 Contents: treasury_heist.log (timestamped AFTER 12:15 transfer)
