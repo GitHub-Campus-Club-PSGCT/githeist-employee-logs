@@ -1,4 +1,4 @@
 [2025-09-02 18:30:11] User login successful - workstation KNK-03
 [2025-09-03 00:12:02] Badge swipe: CFO Office
-[2025-09-03 00:09:14] USB mount detected: /mnt/cakebox
+[2025-09-03 00:10:14] USB mount detected: /mnt/cakebox
 [2025-09-03 00:12:59] Logout - workstation idle
