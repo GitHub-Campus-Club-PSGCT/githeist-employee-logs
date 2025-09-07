@@ -1,2 +1,3 @@
-[Sent 11:50 PM] "Payroll confirmation complete."
-[Sent 00:20 AM] "Funds moved. Transfer confirmed." (server: Darshan-Test)
+[2025-09-02 11:50 PM] From: Rizvi → To: Finance-Team | "Payroll confirmation complete."
+[2025-09-03 00:20 AM] From: Rizvi → To: buyer@anon | "Funds moved. Transfer confirmed." 
+

@@ -1,3 +1,3 @@
-[Sent 00:09 AM] To: Dev-Team → "Repo updated, test if you can"
-[Draft unsent] "script ready – waiting OTP"
-[2025-09-03 00:10:12] Slack message: "Fixing UI bugs lol"
+[00:09 AM] From: Jayasurya → To: Dev-Team | "Repo updated, test if you can"
+[Draft - Unsent] From: Jayasurya → To: Self | "script ready – waiting OTP"
+[2025-09-03 00:10:12] Slack (Jayasurya) | "Fixing UI bugs lol"
