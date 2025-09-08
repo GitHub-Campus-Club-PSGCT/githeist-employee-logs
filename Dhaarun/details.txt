@@ -1,0 +1,3 @@
+Name: Dhaarun
+Role: Research Associate
+Responsibilities: Works on financial data modeling, prepares statistical forecasts, and assists in building automation prototypes for finance.

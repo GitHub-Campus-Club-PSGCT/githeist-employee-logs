@@ -1,2 +1,0 @@
-12:20 AM - USB inserted: /mnt/logs_backup
-Contents: treasury_heist.log (timestamped AFTER 12:15 transfer)

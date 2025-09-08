@@ -1,2 +1,2 @@
-[2025-09-03 00:19:40] Spotify streaming started
-
+[2025-09-03 12:20 AM] Login detected: rizvi@corp.local
+[2025-09-03 12:22 AM] Logout: rizvi@corp.local

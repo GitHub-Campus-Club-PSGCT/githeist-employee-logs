@@ -1,0 +1,3 @@
+Name: Vishal
+Role: Security Analyst
+Responsibilities: Monitors access control, investigates suspicious login activities, and ensures security compliance in financial operations.

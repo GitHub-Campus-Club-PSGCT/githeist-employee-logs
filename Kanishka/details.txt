@@ -1,0 +1,3 @@
+Name: Kanishka
+Role: Admin Staff
+Responsibilities: Manages scheduling, finance records, and provides administrative support for fund documentation.

@@ -1,1 +1,0 @@
-No physical USB devices detected during 00:00–00:30

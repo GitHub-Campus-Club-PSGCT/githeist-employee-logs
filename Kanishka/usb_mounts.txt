@@ -1,2 +1,0 @@
-12:12 AM - USB device inserted: /mnt/cakebox
-Contents: token_auth.sys (flagged)

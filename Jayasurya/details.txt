@@ -1,0 +1,3 @@
+Name: Jayasurya
+Role: Software Developer
+Responsibilities: Develops and maintains internal finance tools, handles automation scripts, and supports integration of backend services.

@@ -1,0 +1,3 @@
+Name: Abbilaash
+Role: Backend Engineer
+Responsibilities: Maintains databases, ensures integrity of transaction logs, and supports software developers with backend queries.

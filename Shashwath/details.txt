@@ -1,0 +1,3 @@
+Name: Shashwath
+Role: Systems Engineer
+Responsibilities: Maintains and monitors financial transaction systems, ensures server uptime, and manages security patches.

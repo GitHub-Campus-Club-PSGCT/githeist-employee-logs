@@ -1,0 +1,3 @@
+Name: Darshan
+Role: Systems Admin
+Responsibilities: Maintains core servers, performs system audits, manages backups, and controls administrative log records.
