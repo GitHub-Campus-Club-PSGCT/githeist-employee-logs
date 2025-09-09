@@ -1,0 +1,9 @@
+[2025-08-05] Leave Request: Annual Leave - 3 days
+[2025-08-05] Status: Approved
+[2025-08-05] Reason: Family vacation
+[2025-08-05] Coverage: Dhaarun covered database maintenance tasks
+
+[2025-08-22] Leave Request: Sick Leave - 2 days
+[2025-08-22] Status: Approved
+[2025-08-22] Reason: Food poisoning
+[2025-08-22] Coverage: Backend tasks redistributed to team

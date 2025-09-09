@@ -1,0 +1,7 @@
+[2025-08-15] Leave Request: Sick Leave - 1 day
+[2025-08-15] Status: Approved
+[2025-08-15] Reason: Fever and flu symptoms
+
+[2025-08-28] Leave Request: Personal Leave - 0.5 day
+[2025-08-28] Status: Approved
+[2025-08-28] Reason: Medical appointment
